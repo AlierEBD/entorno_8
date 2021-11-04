@@ -1064,21 +1064,23 @@ a {
   text-align: left;
   color: #ffffff;
 }
-.cid-s48upRUlSD {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.cid-sNPs5VDnrB {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/2-menu-3-1281x2120.png");
 }
 @media (max-width: 991px) {
-  .cid-s48upRUlSD .image-wrapper {
+  .cid-sNPs5VDnrB .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-s48upRUlSD .row {
-  flex-direction: row-reverse;
-}
-.cid-s48upRUlSD img {
+.cid-sNPs5VDnrB img {
   width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sNPs5VDnrB .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-sNeOKMYomi {
   padding-top: 5rem;
