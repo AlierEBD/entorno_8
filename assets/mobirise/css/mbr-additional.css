@@ -1195,8 +1195,8 @@ a {
   color: #000000;
 }
 .cid-sOt1rGlgyC {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background-image: url("../../../assets/images/7-quiem-1-1281x2121.png");
 }
 .cid-sOt1rGlgyC .video-wrapper iframe {
@@ -1206,13 +1206,9 @@ a {
 .cid-sOt1rGlgyC .mbr-description {
   text-align: center;
 }
-.cid-sOt1rGlgyC .text-wrapper {
-  padding: 1rem;
-}
 @media (min-width: 992px) {
   .cid-sOt1rGlgyC .text-wrapper {
     padding: 2rem;
-    padding-right: 4rem;
   }
 }
 .cid-sOt1rGlgyC .mbr-section-title {
