@@ -1206,9 +1206,13 @@ a {
 .cid-sOt1rGlgyC .mbr-description {
   text-align: center;
 }
+.cid-sOt1rGlgyC .text-wrapper {
+  padding: 1rem;
+}
 @media (min-width: 992px) {
   .cid-sOt1rGlgyC .text-wrapper {
     padding: 2rem;
+    padding-right: 4rem;
   }
 }
 .cid-sOt1rGlgyC .mbr-section-title {
